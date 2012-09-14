@@ -12,5 +12,7 @@
 <h3>홈 / tablet & etc</h3>
 <a href='<c:url value="/specialoffers/main" />'>Special Offers</a> |
 <a href='<c:url value="/showcase/bestseller" />'>베스트셀러</a>
+<a href='<c:url value="/showcase/bestseller" />'>베스트셀러</a>
+<a href='<c:url value="/showcase/bestseller" />'>베스트셀러</a>
 </body>
 </html>
